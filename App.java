@@ -13,7 +13,7 @@ public class App {
         this.price = price;
     }
 
-    // Getters
+    // Getter methods
     public String getAppName() { return appName; }
     public String getDeveloperName() { return developerName; }
     public double getAppSizeInMB() { return appSizeInMB; }

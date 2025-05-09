@@ -2,7 +2,6 @@ import java.util.Arrays;
 import java.util.List;
 
 public class AppValidator {
-
     private static final List<String> ALLOWED_CATEGORIES = Arrays.asList("Games", "Utility", "Finance", "Enterprise");
     private static final List<String> BANNED_DEVELOPERS = Arrays.asList("BadDev", "ScammerInc");
 
